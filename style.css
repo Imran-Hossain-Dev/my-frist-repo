@@ -1,13 +1,14 @@
 body{
     padding: 0%;
     margin: 0%;
-    background-color: #000;
+    background-color: #df5151;
 }
 
 div{
     background-color: yellow;
     color: #000;
-    width: 50%;
+    margin-bottom: 50px;
+    
    
     text-align: center;
     border: 1px solid rgb(106, 106, 60);
